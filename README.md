@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">Full-stack programmer immersed in code and caffeine ☕</h3>
-<p align="center">
-Currently exploring <b>Dart</b> and <b>Flutter</b> for cross-platform development.<br>
-I build tools, break things, and learn from every bug.
-</p>
+
 
 ---
 

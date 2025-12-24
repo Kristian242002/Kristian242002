@@ -7,7 +7,6 @@
 
 <p align="center">
 Computer Science student with a strong interest in full-stack development, software engineering, and modern web and mobile technologies.
-I focus on building clean, maintainable, and scalable applications, combining solid backend logic with well-structured user interfaces.
 </p>
 
 ---

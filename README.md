@@ -27,10 +27,3 @@ I focus on building clean, maintainable, and scalable applications, combining so
 </p>
 
 
----
-
-<h3 align="center">GitHub Statistics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kristian242002&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
